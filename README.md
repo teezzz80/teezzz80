@@ -53,7 +53,7 @@ I spent 8 years as a frontend developer building React apps for 500K+ banking cl
 
 ### Featured Work
 
-🎨 **[My Portfolio](https://terrancezhao.com)** — Case studies from 3 years of UX design at ATB Financial, including Global Transfers, card management, and design system work for 500K+ clients.
+🎨 **[My Portfolio](https://terrancezhao.com)** — 10+ years of work spanning UX design, frontend development, and AI — including Global Transfers, card management, and design system work for 500K+ clients at ATB Financial.
 
 ---
 
